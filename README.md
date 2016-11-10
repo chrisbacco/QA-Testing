@@ -1,6 +1,1 @@
- python
-
- Simple python scripts for various tasks. 
-
-- An AWS IAM account creation tool
-- A script that will grab all of the links on a web page and output them 
+A simple python script to check the login procedure for my University's login page. 
